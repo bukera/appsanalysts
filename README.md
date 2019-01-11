@@ -1,6 +1,8 @@
 # appsanalysts
 FDS CW3
+
 This repository contains:
+
 Script used to download apps from the app store
 Script used to download apps from the play store
 Script used to download reviews from the app store
